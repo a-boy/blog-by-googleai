@@ -1,0 +1,6 @@
+{
+  "name": "Minimal Mistakes Blog",
+  "description": "A modern personal blog and portfolio inspired by Michael Rose's Minimal Mistakes theme, featuring clean content-first typography, author sidebar, dark mode/skins, search, and table of contents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
